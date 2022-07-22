@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Updation</string>
+    <string name="usd">$</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="update_successful">Update Successful </string>
+</resources>
